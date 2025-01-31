@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush Patel !<br>I’m all about building seamless e-commerce experiences through mobile apps 📱. Right now, I’m crafting a platform that makes shopping faster and more personalized.<br><br>When I’m not coding 💻, you’ll find me diving into AI-powered recommendations 🤖 or optimizing app performance to keep users coming back. If you’re into mobile app design, backend scaling, or just love tech, let's connect! 🌐<br><br>🚀 Looking for collaboration on:<br><br>Integrating APIs and third-party services<br>Improving UI/UX for mobile apps<br>Performance tuning and scalability 🌱<br>🔧 Currently learning:<br><br>Advanced serverless architecture and cloud solutions ☁️<br>Cutting-edge mobile-first design principles 🎨<br>Fun fact: I can’t resist tweaking my code until it’s as fast as possible 🏃‍♂️💨<br><br>Let’s create something amazing together! ✨
+👋 Hi, I'm **Ayush Patel**!<br>
+I’m all about building seamless e-commerce experiences through mobile apps 📱. Right now, I’m crafting a platform that makes shopping faster and more **personalized**.<br><br>
+
+When I’m not coding 💻, you’ll find me diving into **AI-powered recommendations** 🤖 or optimizing app performance to keep users coming back. If you’re into **mobile app design**, **backend scaling**, or just love tech, let's connect! 🌐<br><br>
+
+🚀 **Looking for collaboration on**:<br>
+- Integrating APIs and third-party services<br>
+- Improving **UI/UX** for mobile apps<br>
+- Performance tuning and **scalability** 🌱<br><br>
+
+🔧 **Currently learning**:<br>
+- Advanced **serverless architecture** and cloud solutions ☁️<br>
+- Cutting-edge **mobile-first design principles** 🎨<br><br>
+
+**Fun fact**: I can’t resist tweaking my code until it’s as fast as possible 🏃‍♂️💨<br><br>
+
+Let’s create something **amazing** together! ✨
+
 
 
 ## 🌐 Socials:

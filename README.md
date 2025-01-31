@@ -15,7 +15,6 @@ When I’m not coding 💻, you’ll find me diving into <strong>AI-powered reco
 - Cutting-edge <strong>mobile-first design principles</strong> 🎨<br><br>
 
 <span style="font-size:18px; font-weight: bold; color:#ffcc00;">Fun fact</span>: I can’t resist tweaking my code until it’s as fast as possible 🏃‍♂️💨<br><br>
-
 Let’s create something <strong>amazing</strong> together! ✨
 </p>
 

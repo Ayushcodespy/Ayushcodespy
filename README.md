@@ -1,21 +1,23 @@
-# 💫 <span style="color:#ff6347;">About Me:</span>
-👋 Hi, I'm **Ayush Patel**!<br>
-I’m all about building seamless e-commerce experiences through mobile apps 📱. Right now, I’m crafting a platform that makes shopping faster and more **personalized**.<br><br>
+# 💫 <span style="color:#ff6347; background-color:#2e2e2e; padding: 10px; border-radius: 5px;">About Me</span>
+<p style="color:white; background-color:#121212; padding: 10px; border-radius: 8px;">
+👋 Hi, I'm <strong>Ayush Patel</strong>!<br>
+I’m all about building seamless e-commerce experiences through mobile apps 📱. Right now, I’m crafting a platform that makes shopping faster and more <strong>personalized</strong>.<br><br>
 
-When I’m not coding 💻, you’ll find me diving into **AI-powered recommendations** 🤖 or optimizing app performance to keep users coming back. If you’re into **mobile app design**, **backend scaling**, or just love tech, let's connect! 🌐<br><br>
+When I’m not coding 💻, you’ll find me diving into <strong>AI-powered recommendations</strong> 🤖 or optimizing app performance to keep users coming back. If you’re into <strong>mobile app design</strong>, <strong>backend scaling</strong>, or just love tech, let's connect! 🌐<br><br>
 
-🚀 **Looking for collaboration on**:<br>
-- Integrating **APIs** and third-party services<br>
-- Improving **UI/UX** for mobile apps<br>
-- Performance tuning and **scalability** 🌱<br><br>
+🚀 <strong>Looking for collaboration on</strong>:<br>
+- Integrating <strong>APIs</strong> and third-party services<br>
+- Improving <strong>UI/UX</strong> for mobile apps<br>
+- Performance tuning and <strong>scalability</strong> 🌱<br><br>
 
-🔧 **Currently learning**:<br>
-- Advanced **serverless architecture** and cloud solutions ☁️<br>
-- Cutting-edge **mobile-first design principles** 🎨<br><br>
+🔧 <strong>Currently learning</strong>:<br>
+- Advanced <strong>serverless architecture</strong> and cloud solutions ☁️<br>
+- Cutting-edge <strong>mobile-first design principles</strong> 🎨<br><br>
 
-<span style="font-size:18px; font-weight: bold;">Fun fact</span>: I can’t resist tweaking my code until it’s as fast as possible 🏃‍♂️💨<br><br>
+<span style="font-size:18px; font-weight: bold; color:#ffcc00;">Fun fact</span>: I can’t resist tweaking my code until it’s as fast as possible 🏃‍♂️💨<br><br>
 
-Let’s create something **amazing** together! ✨
+Let’s create something <strong>amazing</strong> together! ✨
+</p>
 
 
 ## 🌐 Socials:

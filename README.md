@@ -1,81 +1,100 @@
-# 👋 Hi, I'm Ayush Patel  
+# Hi, I'm Ayush Patel 👋
 
-🚀 **Python & Backend Developer | Django | Mobile & Web Enthusiast**
+### Python Backend Developer | Data Analyst
 
-I enjoy building **scalable backend systems** and **performance-focused applications**.  
-Currently working on projects that combine **clean APIs**, **efficient databases**, and **user-centric design**.
+I'm a Computer Science & Engineering graduate passionate about building
+scalable backend applications, working with data, and solving real-world
+problems through technology.
 
-I believe in learning by building — breaking things, fixing them, and making them better ⚙️
-
----
-
-## 🧠 What I’m Working On
-- Building backend systems using **Python, Django & Flask**
-- Developing **e-commerce & service-based applications**
-- Improving **API performance & scalability**
-- Exploring **AI-powered features** for real-world apps
+I enjoy working with **Python, FastAPI, PostgreSQL, REST APIs, and Data
+Analytics**, while also having experience with React and modern web
+development.
 
 ---
 
-## 🤝 Open to Collaborate On
-- Backend & API development  
-- Django / Flask projects  
-- Performance optimization & clean architecture  
-- Beginner-friendly open source contributions  
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🐍 Focused on Python Backend Development
+- ⚡ Building APIs with FastAPI
+- 🗄️ Working with PostgreSQL & SQL
+- 📊 Exploring Data Analysis & Visualization
+- 🤖 Interested in AI, RAG & intelligent applications
+- 🚀 Always learning and building practical projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-  
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Backend & Frameworks**
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
-**Databases & Tools**
+### Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
-
-**Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayushcodespy&show_icons=true&theme=neon&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushcodespy&theme=neon&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushcodespy&layout=compact&theme=neon&hide_border=true)
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushcodespy&theme=transparent&no-frame=true&margin-w=4)
+## 🚀 Featured Projects
+
+### 🤖 MPOnline FAQ Chatbot
+AI-powered FAQ chatbot designed to help users find answers from
+MPOnline service information.
+
+**Tech:** Python • FastAPI • React • PostgreSQL • FAISS • RAG
 
 ---
 
-## 🌐 Connect With Me
+### 🛒 Grocery E-Commerce Platform
+A full-stack grocery management and e-commerce platform with backend
+APIs, database integration and an admin panel.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-patel-581b8b274)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/ayush_singh6038)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/@CodeFlyers)
+**Tech:** FastAPI • PostgreSQL • SQLAlchemy • React • Flutter
 
 ---
 
-✨ *“Code gets better when you do.”*
+### 🛍️ TechMart Admin Dashboard
+Full-stack e-commerce management system developed as an industry project.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ayushcodespy&icon=0&color=0)
+**Tech:** Python • FastAPI • PostgreSQL • React • REST API
+
+---
+
+### 📊 Netflix Data Analysis
+Exploratory data analysis project using the Netflix Titles dataset to
+discover content trends and patterns.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
+
+---
+
+## 📈 Currently Learning
+
+```text
+Advanced Python
+      ↓
+FastAPI & Backend Architecture
+      ↓
+PostgreSQL & Database Design
+      ↓
+Data Analysis & Visualization
+      ↓
+AI / RAG Applications

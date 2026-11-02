@@ -31,51 +31,21 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AyushPatel:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Developer-007BA7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-FF2D95?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
-    def __init__(self):
-        self.name = "Ayush Patel"
-        self.education = "B.Tech CSE | CGPA: 7.34"
-        self.roles = [
-            "Python Backend Developer",
-            "Data Analyst"
-        ]
+Hi, I'm **Ayush Patel**, a Computer Science & Engineering graduate passionate about backend development, data analytics, and building practical technology solutions.
 
-        self.backend = [
-            "Python",
-            "FastAPI",
-            "Django",
-            "REST APIs"
-        ]
+- 🎓 B.Tech in Computer Science Engineering | CGPA: 7.34
+- 🐍 Building backend applications using Python and FastAPI
+- ⚡ Developing RESTful APIs and working with PostgreSQL
+- 📊 Exploring Data Analytics using Pandas, NumPy, Matplotlib, Excel, and Power BI
+- 🤖 Interested in AI, RAG, and intelligent applications
+- 🚀 Always learning, experimenting, and building projects
 
-        self.data_analytics = [
-            "Pandas",
-            "NumPy",
-            "Matplotlib",
-            "Seaborn",
-            "Excel",
-            "Power BI"
-        ]
-
-        self.databases = [
-            "PostgreSQL",
-            "MySQL",
-            "SQLite",
-            "MongoDB"
-        ]
-
-        self.interests = [
-            "Backend Architecture",
-            "Data Visualization",
-            "AI & RAG",
-            "Problem Solving"
-        ]
-
-    def say_hi(self):
-        return "Let's build something impactful!"
-```
-
+My goal is to combine backend development and data analytics to create scalable applications and meaningful data-driven solutions.
 <p align="center">
   Computer Science graduate passionate about developing scalable backend
   applications and transforming data into meaningful insights.

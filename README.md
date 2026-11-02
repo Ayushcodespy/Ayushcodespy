@@ -1,59 +1,33 @@
 
-<!-- ================================================== -->
-<!-- AYUSH PATEL | NEON FUTURISTIC PROFILE               -->
-<!-- ================================================== -->
+<!-- ====================================================== -->
+<!-- AYUSH PATEL | NEON FUTURISTIC GITHUB PROFILE           -->
+<!-- ====================================================== -->
 
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED HERO BACKGROUND -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:007BA7,100:FF2D95&height=230&section=header&text=AYUSH%20PATEL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=PYTHON%20BACKEND%20DEVELOPER%20%7C%20DATA%20ANALYST&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:007BA7,65:FF2D95,100:050816&height=240&section=header&text=AYUSH%20PATEL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=PYTHON%20BACKEND%20DEVELOPER%20%7C%20DATA%20ANALYST&descAlignY=60&descSize=17"
     width="100%"
-    alt="Ayush Patel - Python Backend Developer and Data Analyst"
+    alt="Ayush Patel Neon Animated Header"
   />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007BA7&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Data+Analyst;FastAPI+%7C+PostgreSQL+%7C+SQL;Pandas+%7C+NumPy+%7C+Power+BI;Building+AI-Powered+Applications"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Data+Analyst;FastAPI+%7C+PostgreSQL+%7C+SQL;Pandas+%7C+NumPy+%7C+Power+BI;Building+AI-Powered+Applications"
+    alt="Animated typing introduction"
   />
 </p>
 
 <!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushcodespy&label=PROFILE+VIEWS&color=007BA7&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Ayushcodespy?label=FOLLOWERS&style=for-the-badge&color=FF2D95" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Ayushcodespy?label=STARS&style=for-the-badge&color=007BA7" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ayushcodespy&label=PROFILE+VIEWS&color=007BA7&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ayushcodespy?label=FOLLOWERS&style=for-the-badge&color=FF2D95"/>
+  <img src="https://img.shields.io/github/stars/Ayushcodespy?label=STARS&style=for-the-badge&color=007BA7"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20Developer-007BA7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analyst-FF2D95?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
-
-Hi, I'm **Ayush Patel**, a Computer Science & Engineering graduate passionate about backend development, data analytics, and building practical technology solutions.
-
-- 🎓 B.Tech in Computer Science Engineering | CGPA: 7.34
-- 🐍 Building backend applications using Python and FastAPI
-- ⚡ Developing RESTful APIs and working with PostgreSQL
-- 📊 Exploring Data Analytics using Pandas, NumPy, Matplotlib, Excel, and Power BI
-- 🤖 Interested in AI, RAG, and intelligent applications
-- 🚀 Always learning, experimenting, and building projects
-
-My goal is to combine backend development and data analytics to create scalable applications and meaningful data-driven solutions.
-<p align="center">
-  Computer Science graduate passionate about developing scalable backend
-  applications and transforming data into meaningful insights.
-  <br/><br/>
-  I enjoy building REST APIs, working with relational databases,
-  performing data analysis, and exploring AI-powered applications.
-</p>
-
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushcodespy">
     <img src="https://img.shields.io/badge/LinkedIn-007BA7?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -68,21 +42,50 @@ My goal is to combine backend development and data analytics to create scalable 
 
 ---
 
-## ⚡ Tech Arsenal
-
-### Backend Development
+<!-- ABOUT ME -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/ABOUT%20ME-007BA7?style=for-the-badge&logo=github&logoColor=white"/>
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,sqlite,mongodb&theme=dark" alt="Backend skills"/>
+  <img
+    src="https://github.com/Ayushcodespy.png"
+    width="150"
+    alt="Ayush Patel"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-007BA7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT%20Authentication-FF2D95?style=for-the-badge"/>
+  <b>Hi, I'm Ayush Patel 👋</b>
+  <br/>
+  B.Tech Computer Science & Engineering Graduate
+  <br/><br/>
+  I'm passionate about building scalable backend applications,
+  developing REST APIs, and transforming raw data into meaningful insights.
+  <br/><br/>
+  I enjoy working with Python, FastAPI, PostgreSQL, and Data Analytics
+  while exploring AI-powered applications and intelligent solutions.
 </p>
 
-### Data Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Backend-007BA7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-FF2D95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20RAG-007BA7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF2D95?style=flat-square"/>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">⚡ TECH ARSENAL</h2>
+
+<h3 align="center">💻 Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,sqlite,mongodb&theme=dark" alt="Backend technologies"/>
+</p>
+
+<h3 align="center">📊 Data Analysis</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -93,13 +96,13 @@ My goal is to combine backend development and data analytics to create scalable 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### Frontend & Tools
+<h3 align="center">🌐 Frontend & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,docker,vscode&theme=dark" alt="Frontend and tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,docker,vscode&theme=dark" alt="Frontend and development tools"/>
 </p>
 
-### AI & Intelligent Applications
+<h3 align="center">🤖 AI & Intelligent Applications</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-007BA7?style=for-the-badge"/>
@@ -110,7 +113,12 @@ My goal is to combine backend development and data analytics to create scalable 
 
 ---
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<p align="center">
+  <i>Building practical applications and data-driven solutions.</i>
+</p>
 
 <table>
   <tr>
@@ -118,41 +126,54 @@ My goal is to combine backend development and data analytics to create scalable 
 
 ### 🤖 AI-Powered FAQ Chatbot
 
-An AI-powered FAQ chatbot built to retrieve answers from service-related documents.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%7C%20RAG-007BA7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-FF2D95?style=flat-square"/>
+</p>
+
+An intelligent FAQ chatbot that retrieves relevant information from documents and generates helpful answers.
 
 **Tech Stack**
-- Python
-- FastAPI
-- React
-- PostgreSQL
-- FAISS
-- RAG
 
-**Key Features**
-- Semantic search
-- Document retrieval
-- OCR-based document processing
-- AI-powered question answering
+`Python` `FastAPI` `React` `PostgreSQL` `FAISS`
+
+- Retrieval-Augmented Generation
+- Semantic Search
+- Document Processing
+- OCR Integration
+
+<p align="center">
+  <a href="https://github.com/Ayushcodespy?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-007BA7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
     </td>
     <td width="50%" valign="top">
 
 ### 📊 Vendor Performance Analysis
 
-A data analytics project focused on evaluating vendor performance and identifying business insights.
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-FF2D95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-007BA7?style=flat-square"/>
+</p>
+
+A data analysis project focused on evaluating vendor performance and discovering business insights.
 
 **Tech Stack**
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
-**Key Features**
-- Data cleaning
-- Exploratory data analysis
-- Vendor performance evaluation
-- Business insights
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Vendor Performance Evaluation
+- Business Insights
+
+<p align="center">
+  <a href="https://github.com/Ayushcodespy?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
     </td>
   </tr>
@@ -161,39 +182,54 @@ A data analytics project focused on evaluating vendor performance and identifyin
 
 ### 🎁 IKEA Gifting Analysis
 
-A data analysis project exploring gifting-related data and business trends.
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analytics-007BA7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Visualization-FF2D95?style=flat-square"/>
+</p>
+
+An exploratory data analysis project focused on gifting-related data and business trends.
 
 **Tech Stack**
-- Python
-- Pandas
-- Excel
-- Data Visualization
 
-**Key Features**
-- Exploratory analysis
-- Trend identification
-- Business insights
-- Data-driven decision making
+`Python` `Pandas` `Excel` `Data Visualization`
+
+- Exploratory Data Analysis
+- Trend Identification
+- Business Insights
+- Data-Driven Decision Making
+
+<p align="center">
+  <a href="https://github.com/Ayushcodespy?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-007BA7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
     </td>
     <td width="50%" valign="top">
 
 ### 🛒 Grocery E-Commerce Platform
 
-A full-stack grocery e-commerce platform with backend APIs and an admin dashboard.
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-FF2D95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-007BA7?style=flat-square"/>
+</p>
+
+A full-stack grocery e-commerce platform with backend APIs, database integration, and an admin dashboard.
 
 **Tech Stack**
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- React
-- Flutter
 
-**Key Features**
-- REST API development
-- Database integration
-- Admin management
-- Mobile application
+`FastAPI` `PostgreSQL` `SQLAlchemy` `React` `Flutter`
+
+- REST API Development
+- Database Integration
+- Admin Dashboard
+- Mobile Application
+
+<p align="center">
+  <a href="https://github.com/Ayushcodespy/grocery-ecommerce-platform">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-FF2D95?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
     </td>
   </tr>
@@ -201,99 +237,103 @@ A full-stack grocery e-commerce platform with backend APIs and an admin dashboar
 
 <p align="center">
   <a href="https://github.com/Ayushcodespy?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-007BA7?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-007BA7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">📈 GITHUB ANALYTICS</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayushcodespy&show_icons=true&theme=transparent&hide_border=true&title_color=007BA7&icon_color=FF2D95&text_color=9CA3AF"
+    src="https://github-readme-stats.vercel.app/api?username=Ayushcodespy&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=FF2D95&text_color=C9D1D9&bg_color=0D1117"
     height="180"
-    alt="GitHub stats"
+    alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushcodespy&layout=compact&theme=transparent&hide_border=true&title_color=007BA7&text_color=9CA3AF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushcodespy&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117"
     height="180"
-    alt="Top programming languages"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ayushcodespy&theme=transparent&hide_border=true&ring=FF2D95&fire=FF2D95&currStreakLabel=007BA7&sideLabels=007BA7&dates=9CA3AF"
+    src="https://streak-stats.demolab.com?user=Ayushcodespy&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=FF2D95&currStreakLabel=00D9FF&sideLabels=FF2D95&dates=C9D1D9"
     width="70%"
-    alt="GitHub contribution streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-## 🌌 3D Contribution Graph
+<!-- 3D CONTRIBUTION GRAPH -->
+<h2 align="center">🌌 3D CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushcodespy/Ayushcodespy/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-    <img src="https://raw.githubusercontent.com/Ayushcodespy/Ayushcodespy/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Ayushcodespy/Ayushcodespy/main/profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Ayushcodespy/Ayushcodespy/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="Animated contribution snake"
+    alt="Animated GitHub Contribution Snake"
   />
 </p>
 
 ---
 
-## 📚 Currently Learning
+<!-- CURRENTLY LEARNING -->
+<h2 align="center">🎯 CURRENTLY LEARNING</h2>
 
-```text
-Advanced Python
-      ↓
-FastAPI & Backend Architecture
-      ↓
-PostgreSQL & Database Design
-      ↓
-Data Analysis & Visualization
-      ↓
-AI / RAG Applications
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20Python-007BA7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-FF2D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-007BA7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF2D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20RAG-007BA7?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+<!-- CONNECT -->
+<h2 align="center">🌐 LET'S CONNECT</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushcodespy">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-007BA7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-007BA7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://ayushcodespy.vercel.app">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF2D95?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://ayushcodespy01.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF2D95?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ayushcodespy">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Building. Learning. Improving.</b>
+  <b>BUILDING • LEARNING • IMPROVING</b>
   <br/>
   <i>One commit at a time.</i>
 </p>
 
+<!-- ANIMATED FOOTER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:007BA7,100:0A0A0A&height=120&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:007BA7,100:050816&height=130&section=footer&animation=fadeIn"
     width="100%"
-    alt="Animated footer"
+    alt="Neon animated footer"
   />
 </p>
